@@ -1,4 +1,4 @@
-h1 {color: #F0A050;}
+h1, h2, h3 {color: #F0A050;}
 table {border-collapse: collapse;}
 th,td {border: dashed thick black;}
 th.important {color: red;}
